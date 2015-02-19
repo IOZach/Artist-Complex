@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe" total="11" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-04-30" time="16:50:32">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="HONOURABLE" user="ZAStudio" user-domain="HONOURABLE" />
+  <culture-info current-culture="en-GB" current-uiculture="en-GB" />
+  <test-suite type="Assembly" name="C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe" executed="True" result="Success" success="True" time="0.817" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ArtistComplex" executed="True" result="Success" success="True" time="0.758" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="NUnitTesting" executed="True" result="Success" success="True" time="0.758" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="AlbumTest" executed="True" result="Success" success="True" time="0.159" asserts="0">
+                <results>
+                  <test-case name="ArtistComplex.NUnitTesting.AlbumTest.getalbum" executed="True" result="Success" success="True" time="0.107" asserts="1" />
+                  <test-case name="ArtistComplex.NUnitTesting.AlbumTest.instantiatealbum" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="ArtistTest" executed="True" result="Success" success="True" time="0.516" asserts="0">
+                <results>
+                  <test-case name="ArtistComplex.NUnitTesting.ArtistTest.checkBandName" executed="True" result="Success" success="True" time="0.423" asserts="1" />
+                  <test-case name="ArtistComplex.NUnitTesting.ArtistTest.CheckString" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                  <test-case name="ArtistComplex.NUnitTesting.ArtistTest.getAge" executed="True" result="Success" success="True" time="0.017" asserts="1" />
+                  <test-case name="ArtistComplex.NUnitTesting.ArtistTest.searchName" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                  <test-case name="ArtistComplex.NUnitTesting.ArtistTest.searchtitle" executed="True" result="Success" success="True" time="0.009" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="AVLTest" executed="True" result="Success" success="True" time="0.055" asserts="0">
+                <results>
+                  <test-case name="ArtistComplex.NUnitTesting.AVLTest.InsertItem" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                  <test-case name="ArtistComplex.NUnitTesting.AVLTest.removItem" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                  <test-case name="ArtistComplex.NUnitTesting.AVLTest.TreeBalance" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                  <test-case name="ArtistComplex.NUnitTesting.AVLTest.TreeContain" executed="True" result="Success" success="True" time="0.014" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,40 @@
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe.config
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.pdb
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\nunit.framework.dll
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\nunit.framework.xml
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.EditAlbum.resources
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.Form1.resources
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.Properties.Resources.resources
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.csproj.GenerateResource.Cache
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.exe
+C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.pdb
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe.config
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.pdb
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\nunit.framework.dll
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\nunit.framework.xml
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.EditAlbum.resources
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.Form1.resources
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.Properties.Resources.resources
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.csproj.GenerateResource.Cache
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.exe
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.pdb
+H:\Second Year\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.csprojResolveAssemblyReference.cache
+C:\Users\ZAStudio\Desktop\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe.config
+C:\Users\ZAStudio\Desktop\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.exe
+C:\Users\ZAStudio\Desktop\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.pdb
+C:\Users\ZAStudio\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe.config
+C:\Users\ZAStudio\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.exe
+C:\Users\ZAStudio\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.pdb
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe.config
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.exe
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.pdb
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.pdb
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\bin\Debug\nunit.framework.xml
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.EditAlbum.resources
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.Form1.resources
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.Properties.Resources.resources
+C:\Users\Zack\Documents\Words and PDFs\Second year - Uni\Data Structures and Algorithms\ArtistComplex\ArtistComplex\ArtistComplex\obj\Debug\ArtistComplex.csproj.GenerateResource.Cache

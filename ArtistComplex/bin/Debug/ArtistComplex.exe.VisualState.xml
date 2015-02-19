@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1007]C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe</TopNode>
+  <SelectedNode>[0-1007]C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1007]C:\Users\ZAStudio\Documents\Visual Studio 2013\Projects\ArtistComplex\ArtistComplex\bin\Debug\ArtistComplex.exe" Expanded="true" />
+    <Node UniqueName="[0-1008]ArtistComplex" Expanded="true" />
+    <Node UniqueName="[0-1009]ArtistComplex.NUnitTesting" Expanded="true" />
+    <Node UniqueName="[0-1002]ArtistComplex.NUnitTesting.AVLTest" Expanded="true" />
+  </Nodes>
+</VisualState>
