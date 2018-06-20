@@ -35,7 +35,7 @@ You need Visual Studio 2013 and above to play the solution.
 
 Artist Complex for artists and albums collections.
 
-Copyright (c) 2015, IOZack.
+Copyright (c) 2015, IOZach.
 
 Written by Zachariah Windett <zachwindett@gmail.com>
 
