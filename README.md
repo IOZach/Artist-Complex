@@ -37,7 +37,7 @@ Artist Complex for artists and albums collections.
 
 Copyright (c) 2015, IOZack.
 
-Written by Zakaria Abushima <im@zack.today>
+Written by Zachariah Windett <zachwindett@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
