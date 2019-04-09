@@ -1,5 +1,5 @@
 # Artist-Complex
-> Store collection of Artists, Albums with high performane of AVL Tree, written in C#
+> Store collection of Artists, Albums with high performance of AVL Tree, written in C#
 
 ### Application Specification
 
